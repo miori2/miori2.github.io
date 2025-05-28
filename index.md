@@ -12,5 +12,5 @@ quick_facts:
   - "🚀 Passionate about building software to inspire"
 
 linkedin: https://www.linkedin.com/in/michael-orishagbemi-779563339/
-image: /assets/images/me.jpg
+image: assets/images/IMG_3015.jpg
 ---
