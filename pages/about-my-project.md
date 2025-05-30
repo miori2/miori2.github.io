@@ -18,7 +18,7 @@ approach: |
   - Integrate real-time signal classification
   - Evaluate system performance in daily activities
 
-  Tools such as MathLab, Python, R, and Anaconda (an open source platform that includes over 200 packages tailored for data science will be used in the project.
+  Tools such as MathLab, Python, R, and Anaconda (an open source platform that includes over 200 packages tailored for data science) will be used in the project.
 
 outcome: |
   By the end of the program, the project will result in improved prediction ability of machine learning systems and more efficient training of these systems.
