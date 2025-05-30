@@ -6,7 +6,7 @@ permalink: /about-my-mentor.html
 graduate_mentor:
   name: Amara Eze
   title: PhD Student, Industrial and Computational Mathematics
-  image: /assets/images/graduate-student-mentor.jpg
+  image: /assets/images/GraduateStudent.jpg
   website: https://www.linkedin.com/in/amara-eze-569b59259/
   bio: |
     Amara Eze is a PhD graduate in Industrial and Computational Mathematics. She focuses on developing and applying advanced mathematical methods and computational techniques to solve real-world issues. Her current research explores how to figure out efficient inertial algorithms to solve equilibrium problems and how these solutions can be applied to heart disease prediction.
@@ -16,7 +16,7 @@ graduate_mentor:
 faculty_mentor:
   name: Dr. Olaniyi Iyiola
   title: Associate Professor, Morgan State University
-  image: /assets/images/faculty-mentor.jpg
+  image: /assets/images/FacultyMentor.jpg
   website: https://www.linkedin.com/in/olaniyi-iyiola-phd-math-mba-business-analytics-89073455/
   bio: |
     The experience and accomplishments of Dr. Iyiola are nearly innumerable. Across his 20+ years of experience in academia and research, he has obtained master's degrees in Business Administration, Science, and Mathematics, and a PhD in Computational and Applied Mathematics. He has published over 100 research articles on topics ranging from computing a fractional diffusion equation model for cancer tumors to finding exact solutions of generalized multidimensional mathematical physics models via the sub-equation model.
