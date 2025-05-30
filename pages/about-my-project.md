@@ -21,9 +21,9 @@ approach: |
   Tools such as MathLab, Python, R, and Anaconda (an open source platform that includes over 200 packages tailored for data science will be used in the project.
 
 outcome: |
-  By the end of the program, the project will result in improved prediction ability of machine learning systems and more efficient training of these systems
+  By the end of the program, the project will result in improved prediction ability of machine learning systems and more efficient training of these systems.
 
-final_report_url: TBD
+final_report_url:
 
 grad_mentor:
   name: Amara Eze
