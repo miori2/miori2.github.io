@@ -1,7 +1,7 @@
 ---
 layout: mentor
 title: About My Mentors
-permalink: /about-my-mentor.html
+permalink: /
 
 graduate_mentor:
   name: Amara Eze
@@ -9,7 +9,7 @@ graduate_mentor:
   image: /assets/images/graduate-student-mentor.jpg
   website: https://www.linkedin.com/in/amara-eze-569b59259/
   bio: |
-    Amara Eze is a PhD graduate in Industrial and Computational Mathematics. She focuses on developing and applying advanced mathematical methods and computational techniques to solve real-world issues. Her current research explores how to figure out efficient inertial algorithms to solve equilibrium problems and how these solutions can be applied to **heart disease prediction**.
+    Amara Eze is a PhD graduate in Industrial and Computational Mathematics. She focuses on developing and applying advanced mathematical methods and computational techniques to solve real-world issues. Her current research explores how to figure out efficient inertial algorithms to solve equilibrium problems and how these solutions can be applied to heart disease prediction.
     
     Thanks to her research, Dr. Eze is known as a highly knowledgeable and respected member of the field of mathematics. She has been involved in many conferences such as NAM (National Association of Mathematicians) MATHFest, where alongside a colleague, she received the Outstanding Graduate Oral Presentation Award for their **thought-provoking** presentation on a novel approach to solving the image reconstruction problem. Dr. Eze has also facilitated some conferences herself, co-hosting the "Let's Talk About It: Using Discussion to Facilitate Learning" workshop, showcasing her commitment to fostering higher learning throughout the world.
 
