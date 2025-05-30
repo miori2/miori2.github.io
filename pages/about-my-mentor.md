@@ -1,7 +1,7 @@
 ---
 layout: mentor
 title: About My Mentors
-permalink: /
+permalink: /about-my-mentor.html
 
 graduate_mentor:
   name: Amara Eze
