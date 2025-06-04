@@ -27,12 +27,10 @@ about:
       description: I love to play all sorts of games. Card games, board games, or video games on my console or emulated. 
 
   gallery:
-    - image: /assets/images/me-guitar.png
+    - image: /assets/images/Wheelbarreling Apples.JPG
       caption: Wheelbarreling apples on a farm 
-    - image: /assets/images/me-basketball.png
+    - image: /assets/images/Playing Games.jpg
       caption: At the park with my Family
-    - image: /assets/images/me.jpg
-      caption: My favorite portrait of myself :)
-    - image: /assets/images/me-pi.png
-      caption: Me and my ma
+    - image: /assets/images/Me & My Ma.jpeg
+      caption: Me and my mom
 ---
