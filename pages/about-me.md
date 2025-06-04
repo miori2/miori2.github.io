@@ -28,11 +28,11 @@ about:
 
   gallery:
     - image: /assets/images/me-guitar.png
-      caption: Playing guitar at the park!
+      caption: Wheelbarreling apples on a farm 
     - image: /assets/images/me-basketball.png
-      caption: Hooping and dropping people off at the park 🏀
+      caption: At the park with my Family
     - image: /assets/images/me.jpg
       caption: My favorite portrait of myself :)
     - image: /assets/images/me-pi.png
-      caption: Working on a personal project w/ the Raspberry PI
+      caption: Me and my ma
 ---
