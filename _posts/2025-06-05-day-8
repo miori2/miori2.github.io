@@ -1,0 +1,16 @@
+---
+layout: post
+title: "Day 8 – Campus Tour, Titanic Competittion, & Reading & Writing Data"
+date: 2025-06-05
+author: Michael Orishagbemi
+permalink: /day8.html
+tags: ["DataFrames", "Paths", "Excel", "CSV", "TSV",]
+
+what_i_learned: |
+  Today before I went into research, our program coordinators had us go on a campus tour of Morgan State. I already go to Morgan so I recognized most of the areas we went to, but I did end learning about  buildings that I had never seen before, such as the Mitchell Engineering building. Returning to research I learned how to better manipulate my DataFrame, such as deleting and adding columns, inserting series, and selecting/slicing rows. I then had an exercise where I loaded a data set of the Titanic Competition Bussiness set, where I learned about more functions such as df.head and df.tail to locate values depending on their placement. I then went into another lesson about reading and writing data and how I can load the data from file formats such as CSV, TSV, and Excel files. All while changing my system's path to where each file was located.
+ 
+blockers: |
+  I have difficulty applying certain Numpy functions (Numpy is a Python library with a powerful data structures call Ndarrays) to my code. For example, I tried to apply one of its function to my code (np.mean()) to a DataFrame I created, but it didn't work and I had to use an alternative.
+
+reflection: |
+  Even though it was really hot and a lot of the places we visited didn't even open or even closed before or work was done, I still greatly enjoyed the campus tour. It was nice to chat a bit with some of the other students. In regards to research, its a bit of a difficult time. I am understanding what I'm learning but I feel as though I need to study more so I can be more confident in giving my mentors a more thorough but succint summary of the work I have done that day. I also need to catch to some of my co-workers as well. These are tough times.
