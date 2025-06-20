@@ -21,7 +21,7 @@ approach: |
   Tools such as MathLab, Python, R, and Anaconda (an open source platform that includes over 200 packages tailored for data science) will be used in the project.
 
 outcome: |
-  By the end of the program, the project will result in improved prediction ability of machine learning systems and more efficient training of these systems.
+  The expected outcome of this project is the development of advanced machine learning algorithms capable of efficiently handling complex, and nonlinear biomedical data. These algorithms will significantly improve the accuracy and robustness of predictive models used in biomedical research. The project will also produce systems capable of real-time classification and decoding of biomedical patterns, validated through performance in real-world daily activity scenarios. Through the use tools like MATLAB, Python, R, and Anaconda, the project will deliver a scalable framework for future biomedical applications. Overall, our project aims to set a foundation for more precise, data-driven diagnostics and treatment strategies.
 
 final_report_url:
 
