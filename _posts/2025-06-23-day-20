@@ -1,0 +1,17 @@
+---
+layout: post
+title: "Day 20 – Decision Trees & Principal Component Analysis"
+date: 2025-06-23
+author: Michael Orishagbemi
+permalink: /day20.html
+tags: ['Decision Trees', 'Principal Component Analysis', 'Pythagorem Theorem', 'Eigenvalues']
+
+what_i_learned: |
+  Today I finished my lesson on Decision Trees by learning how to train the DecisionTreeClassifier and how to customize its parameters like min_samples_leaf (which allows you to choose how many rows of observations you want) and random_state to make sure the result is always the same and fitting the classifier to our training data in order our model to learn. Afterwards I learned how to create visualization for the decision tree and the calculations it performs at each node such as the # of observations (samples) and the amount of observations that belong under each label (value). After finishing that lesson I went through a new topic: Principal Component Analysis (PCA), which is a technique to transform a large set of variables into a smaller set of principal components that retain most of the original information in order to analyze the data easier. This process is done through the use of a graph and various equations such as the Pythagorem Theorem and the Eigenvalues of each PCA (which appears as a line that is fitted across the origin point).
+ 
+blockers: |
+  No blockers today.
+  
+reflection: |
+  Today was alright. I'm happy to have finally finished with Decisions Trees and all of its concepts for now, though I did enjoy the process of visualizing it finally through the plot() function and the confusion matrix. Before I actually watched the video for Principal Component Analysis I thought it would be the hardest of all the models I learned about to understand, but in reality its not really all that complex. It all takes place after you have plot your data on your 2D/3D/4D graph and then you just have to plug in a random line and see if the distance of your data points projected onto that line are at their mininum or maximum. Then you just have to do a few calculations and then you have the PCA for basically every variable. Its a lot information and a lot of terms but it really isn't a big deal.
+---
