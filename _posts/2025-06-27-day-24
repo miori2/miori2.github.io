@@ -1,0 +1,17 @@
+---
+layout: post
+title: "Day 24 – Creating our own Research Paper"
+date: 2025-06-27
+author: Michael Orishagbemi
+permalink: /day24.html
+tags: ['Machine Learning', 'Alzheimer's Disease', 'Overleaf', 'Data Science']
+
+what_i_learned: |
+  Today. Ms. Amara assigned us our own research papers to work on, it was basically practice for our future work in the project. The title of my paper is almost exactly the same as our project's own: 'Developing Cutting-Edge Algorithmic Approaches to Refine Machine Learning Systems for Complex Nonlinear Optimization in Biomedical Research - Applications in Alzheimer's Disease Prediction' where I talk about how terrible Alzheimer's is and how its so widespread across the world and how machine learnings models can be used to predict Alzheimers in patients. I haven't finished yet but before the day ended I was able to import my given dataset into Overleaf as a table and I was able to use the data to train an ELM model and calcuate its accuracy with the use of some metrics (Mean Squared Error, Mean Average Error, Root Mean Square Error, % diif in RMSE, and the time it took for the model to be trained on the data and how long it took to make predictions).
+
+blockers: |
+  I was able to set up the metrics for MAE, MSE, RMSE and its percentage difference and the time but I had trouble displaying them in a table. Granted in this assignment it was neccesary to output them as a table in Python but it showed me I still have trouble with arrays and their rules/
+  
+reflection: |
+  It was interesting experience building my own research paper. Today actually wasn't my first time making one, I remember doing it all in my science classes both in high school and at Morgan. The main differences this time were that I was using Overleaf to create my paper which is a lot more confusing than something like Google Docs. The other main difference was the method I was using to backup my claim was programming models versus measuring the diameter of random objects. It wasn't too bad though, I was able get a good amount of work done today. I'm beginning to get used to the whole splitting datasets into training/testing sets process.
+---
